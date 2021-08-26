@@ -1,5 +1,0 @@
-Credentials cache: API:6EFC51AB-9423-4CD8-84FE-126E1C942F56
-        Principal: jschapin@42.FR
-
-  Issued                Expires               Principal
-Aug  2 10:13:31 2021  Aug  9 10:13:31 2021  krbtgt/42.FR@42.FR
