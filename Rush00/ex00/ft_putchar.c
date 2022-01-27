@@ -3,16 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jschapin <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tnaton <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/08/04 21:05:05 by jschapin          #+#    #+#             */
-/*   Updated: 2021/08/04 21:05:11 by jschapin         ###   ########.fr       */
+/*   Created: 2021/08/04 11:11:34 by tnaton            #+#    #+#             */
+/*   Updated: 2021/08/07 10:40:36 by tnaton           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include <unistd.h>
-
-void	ft_putchar(char c);
 
 void	ft_putchar(char c)
 {
